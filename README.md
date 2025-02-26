@@ -21,7 +21,7 @@ I thrive on **solving complex problems, optimizing workflows, and building scala
 ## 🌱 My Journey  
 🎓 **Academics:**  
 - 🎓 Studying **Computer Science at University of Central Punjab**  
-- 🏆 CGPA: **3.63**  
+- 🏆 CGPA: **3.64**  
 
 🛤️ **Professional & Projects:**  
 - ✅ Developed **Python-based applications**  
