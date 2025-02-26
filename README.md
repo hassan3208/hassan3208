@@ -62,7 +62,7 @@ I thrive on **solving complex problems, optimizing workflows, and building scala
 ### **Data Structures & Algorithms**  
 ▮▮▮▮▮▮▯▯▯▯ `60%`  
 ### **API Development (FastAPI, Flask)**  
-▮▮▮▮▮▮▮▯▯▯ `65%`  
+▮▮▮▯▯▯▯▯▯▯ `35%`  
 ### **Database Management (SQL & Firebase)**  
 ▮▮▮▮▮▮▮▮▯▯ `75%`  
 
