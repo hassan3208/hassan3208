@@ -58,7 +58,7 @@ I thrive on **solving complex problems, optimizing workflows, and building scala
 ### **Machine Learning & Deep Learning**  
 ▮▮▮▮▮▮▮▯▯▯ `70%`  
 ### **App Development**  
-▮▮▮▮▯▯▯▯▯▯ `40%`  
+▮▮▮▯▯▯▯▯▯▯ `30%`  
 ### **Data Structures & Algorithms**  
 ▮▮▮▮▮▮▯▯▯▯ `60%`  
 ### **API Development (FastAPI, Flask)**  
